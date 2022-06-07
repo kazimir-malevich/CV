@@ -20,13 +20,13 @@ Programmer' (2015).
 |Rust, Kotlin, ES6, Python      | Gatling, k6, Goose         | Coreutils, Systemd, Networks | Git/GitHub      |    AWS            | Jenkins   |
 
 ## Experience  
-**2020-2022 Sabbatical**  
+** Nov 2020-present, Sabbatical**  
 Sabbatical taken to care for my elderly mother with advanced Alzheimer's. This
 is no longer an issue and I am looking to re-enter the workforce. I have
 recently passed the Linux Foundation Certified System Administrator exam and
 taught myself Rust and Kotlin.
 
-*2010-2020, British Broadcasting Corporation** (West London and Salford)
+**2010-2020, British Broadcasting Corporation** (West London and Salford)
 
 ### Roles
 **2013-2020, Load Test Engineer** (Operations)
