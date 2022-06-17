@@ -20,7 +20,7 @@ Programmer' (2015).
 | Rust, ES6, Python | Gatling, k6, Goose  | Puppeteer, WebDriver  | Coreutils, Systemd, Networks, etc| Git/GitHub      |  AWS      | Jenkins   |
 
 ## Experience  
-** Nov 2020-present, Sabbatical**  
+**Nov 2020-present, Sabbatical**  
 Sabbatical taken to care for my elderly mother with advanced Alzheimer's. This
 is no longer an issue and I am looking to re-enter the workforce. I have
 recently passed the Linux Foundation Certified System Administrator exam and
