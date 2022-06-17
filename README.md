@@ -1,4 +1,4 @@
-# Adrian Lewis, Performance Engineer 
+# Adrian Lewis, Software Developer-in-Test
 
 **email:** adrian_lewis@hushmail.com  
 **mobile:** 07551377577  
@@ -15,19 +15,18 @@ variety of FOSS tools.  Acknowledged in Sam Newman's, 'Building Microservices'
 Programmer' (2015).
 
 ## Key Skills
-| Languages                     | Load Tools                 | GNU/Linux                    | Version Control | Cloud Platforms   | CI/CD     |
-|:-----------------------------:| :-------------------------:| :---------------------------:|:--------------: | :--------------:  | :--------:|
-|Rust, Kotlin, ES6, Python      | Gatling, k6, Goose         | Coreutils, Systemd, Networks | Git/GitHub      |    AWS            | Jenkins   |
+| Languages         | Load Tools          | Browser drivers       | GNU/Linux                        | Version Control | Cloud     | CI/CD     |
+|:-----------------:| :-----------------: | :-------------------: | :-------------------------------:|:--------------: | :------:  | :--------:|
+| Rust, ES6, Python | Gatling, k6, Goose  | Puppeteer, WebDriver  | Coreutils, Systemd, Networks, etc| Git/GitHub      |  AWS      | Jenkins   |
 
 ## Experience  
 ** Nov 2020-present, Sabbatical**  
 Sabbatical taken to care for my elderly mother with advanced Alzheimer's. This
 is no longer an issue and I am looking to re-enter the workforce. I have
 recently passed the Linux Foundation Certified System Administrator exam and
-taught myself Rust and Kotlin.
+taught myself Rust.
 
 **2010-2020, British Broadcasting Corporation** (West London and Salford)
-
 ### Roles
 **2013-2020, Load Test Engineer** (Operations)
   * Introduced the open-source **Gatling** load test tool that replaced a GUI
@@ -41,10 +40,11 @@ taught myself Rust and Kotlin.
     AWS wrapper
   * Helped to debug Linux bottlenecks through GNU tools (e.g. ps, top, vmstat, free)
   * Used other load tools including: **locust**(Python), **k6**(ES6), **wrk(Lua)**
+  * Ran load tests for heavy JavaScript front-end applications using Puppeteer
   * Offered a vulnerability testing service to replace a consultancy,
     originally using **Nmap** and it's **Lua** extensions and latterly using
-    **vuls**
-  
+    **vuls**  
+    
 **2010-2013, Automated Tester/Developer-in-Test** (News)
   * Automated acceptance tester using **Ruby**, **Selenium-Webriver** and the
     **Behaviour Driven Development**(BDD) framework, **Cucumber**
