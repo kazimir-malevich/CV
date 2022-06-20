@@ -15,9 +15,9 @@ variety of FOSS tools.  Acknowledged in Sam Newman's, 'Building Microservices'
 Programmer' (2015).
 
 ## Key Skills
-| Languages         | Load Tools          | Browser drivers       | GNU/Linux                        | Version Control | Cloud     | CI/CD     |
-|:-----------------:| :-----------------: | :-------------------: | :-------------------------------:|:--------------: | :------:  | :--------:|
-| Rust, ES6, Python | Gatling, k6, Goose  | Puppeteer, WebDriver  | Coreutils, Systemd, Networks, etc| Git/GitHub      |  AWS      | Jenkins   |
+| Languages         | Load Tools          | Browser drivers       | GNU/Linux                         | Version Control | Cloud     | CI/CD     |
+|:-----------------:| :-----------------: | :-------------------: | :--------------------------------:|:--------------: | :------:  | :--------:|
+| Rust, ES6, Python | Gatling, k6, Goose  | Puppeteer, WebDriver  | Systemd, Networks, Kernel tuning  | Git/GitHub      |  AWS      | Jenkins   |
 
 ## Experience  
 **Nov 2020-present, Sabbatical**  
