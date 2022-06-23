@@ -1,4 +1,4 @@
-# Adrian Lewis, Software Developer in Test
+# Adrian Lewis, Performance Engineer
 
 **email:** adrian_lewis@hushmail.com  
 **mobile:** 07551377577  
@@ -7,17 +7,16 @@
 **github:** kazimir-malevich  
 
 ## Summary
-Polyglot computer programmer, certified GNU/Linux systems administrator with a
-core knowledge of Amazon Web Services (AWS), including automated deployment.
-In-depth experience of load, acceptance and vulnerability testing with a
-variety of FOSS tools.  Acknowledged in Sam Newman's, 'Building Microservices'
-(2015) and Brian Marick's, 'Functional Programming for the Object-Oriented
-Programmer' (2015).
+Performance engineer, polyglot programmer, certified GNU/Linux systems
+administrator with a core knowledge of Amazon Web Services (AWS).  In-depth
+experience of load, acceptance and vulnerability testing with a variety of FOSS
+tools.  Acknowledged in Sam Newman's, 'Building Microservices' (2015) and Brian
+Marick's, 'Functional Programming for the Object-Oriented Programmer' (2015).
 
 ## Key Skills
-| Languages         | Load Tools          | Browser drivers       | GNU/Linux                         | Version Control | Cloud     | CI/CD     |
-|:-----------------:| :-----------------: | :-------------------: | :--------------------------------:|:--------------: | :------:  | :--------:|
-| Rust, ES6, Python | Gatling, k6, Goose  | Puppeteer, WebDriver  | Systemd, Networks, Kernel tuning  | Git/GitHub      |  AWS      | Jenkins   |
+| Languages                   | Load Tools          | Browser drivers       | Version Control | Cloud     | CI/CD     |
+|:--------------------------: | :-----------------: | :-------------------: | :--------------:|:---------:| :------:  |
+| Scala 2, JavaScript, Python | Gatling, k6, JMeter  | Puppeteer, WebDriver | Git/GitHub      |  AWS      | Jenkins   |
 
 ## Experience  
 **Nov 2020-present, Sabbatical**  
@@ -39,8 +38,11 @@ taught myself Rust.
   * Automated Gatling deployment through AWS CloudFormation and a "thin" BBC
     AWS wrapper
   * Helped to debug Linux bottlenecks through GNU tools (e.g. ps, top, vmstat, free)
-  * Used other load tools including: **locust**(Python), **k6**(ES6), **wrk(Lua)**
-  * Ran load tests for heavy JavaScript front-end applications using Puppeteer
+  * Used other load tools including: **locust**(Python), **k6**(JavaScript), **wrk**(Lua)
+  * Wrote and ran load tests for heavy JavaScript front-end applications using
+    Puppeteer(TypeScript) and BlazeMeter.
+  * Gave talks on Gatling, embedded myself in teams to guide developers and
+    testers on load testing and gave courses on the fundamentals of Scala
   * Offered a vulnerability testing service to replace a consultancy,
     originally using **Nmap** and it's **Lua** extensions and latterly using
     **vuls**  
@@ -73,7 +75,7 @@ taught myself Rust.
   **2003-2004, Philips Medical Systems**, (Hamburg, Germany), **Integration Tester**  
   Testing new controller software on an RTOS, interfacing to an x-ray machine
 
-  **2000-2003, Sage Sofware Limtied** (Wimbledon, London), **Software Tester**  
+  **2000-2003, Sage Sofware Limited** (Wimbledon, London), **Software Tester**  
   Testing a variety of tax products, with some automation using **Rational Robot**
 
   **1999-2000, North West Water** (Old Trafford, Manchester), **Software Tester**  
