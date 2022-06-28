@@ -1,4 +1,4 @@
-# Adrian Lewis, Systems Performance Engineer
+# Adrian Lewis, Software Developer in Test
 
 **email:** adrian_lewis@hushmail.com  
 **mobile:** 07551377577  
@@ -7,10 +7,10 @@
 **github:** kazimir-malevich  
 
 ## Summary
-Performance engineer, polyglot programmer, certified GNU/Linux systems
-administrator with a core knowledge of Amazon Web Services (AWS).  In-depth
-experience of load, acceptance and vulnerability testing with a variety of FOSS
-tools.  Acknowledged in Sam Newman's, 'Building Microservices' (2015) and Brian
+Polyglot programmer, certified GNU/Linux systems administrator with a core
+knowledge of Amazon Web Services (AWS).  In-depth experience of load,
+acceptance and vulnerability testing with a variety of FOSS tools.
+Acknowledged in Sam Newman's, 'Building Microservices' (2015) and Brian
 Marick's, 'Functional Programming for the Object-Oriented Programmer' (2015).
 
 ## Key Skills
