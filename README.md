@@ -39,7 +39,7 @@ is no longer an issue and I am looking to re-enter the workforce.
   **Docker**, **Kubernetes**, **InfluxDB** and **Grafana**
 - Undertook **load**, **stress**, **spike** and **soak** testing according to
   the trafffic profiles (CloudWatch Metrics, AWS X-Ray) of an application-under-test (AUT)
-- Analysed performance reports and engaged with domain experts to determine the success or failure of an AUT
+- Analysed performance test reports and engaged with domain experts to determine the success or failure of an AUT
 - Created tooling for non-HTTP(S) testing which Gatling does not readily
   support (e.g. SQS, DNS, datastore load testing)
 - Automated Gatling deployment through AWS CloudFormation and a "thin" BBC
