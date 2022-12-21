@@ -37,8 +37,9 @@ is no longer an issue and I am looking to re-enter the workforce.
   DSL
 - Created a Gatling orchestration and metric visualisation tool using
   **Docker**, **Kubernetes**, **InfluxDB** and **Grafana**
-- Undertook load, stress, spike and soak testing according to the trafffic profile of particular products and services
-- Analysed performance reports post-run and engaged with domain experts to determine the success or failure of an application-under-test
+- Undertook **load**, **stress**, **spike** and **soak** testing according to
+  the trafffic profiles (CloudWatch Metrics, AWS X-Ray) of an application-under-test (AUT)
+- Analysed performance reports and engaged with domain experts to determine the success or failure of an AUT
 - Created tooling for non-HTTP(S) testing which Gatling does not readily
   support (e.g. SQS, DNS, datastore load testing)
 - Automated Gatling deployment through AWS CloudFormation and a "thin" BBC
@@ -50,8 +51,7 @@ is no longer an issue and I am looking to re-enter the workforce.
 - Gave talks on Gatling, embedded myself in teams to guide developers and
   testers on load testing and gave courses on the fundamentals of Scala
 - Offered a vulnerability testing service to replace a consultancy,
-  originally using **Nmap** and it's **Lua** extensions and latterly using
-  **vuls**
+  using **Nmap** and it's **Lua** extensions
 
 **2010-2013, Automated Tester/Developer-in-Test** (News)
 
