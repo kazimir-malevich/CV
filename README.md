@@ -9,10 +9,10 @@
 ## Summary
 
 Polyglot programmer with an in-depth experience of performance, acceptance and
-vulnerability testing with a variety of FOSS tools. Well versed Agilist with a
-core understanding of Amazon Web Services (AWS). Acknowledged in Sam Newman's,
-'Building Microservices' (2015) and Brian Marick's, 'Functional Programming for
-the Object-Oriented Programmer' (2015).
+vulnerability testing with a variety of FOSS tools. Well versed Agilist,
+long-term GNU/Linux user with a core understanding of Amazon Web Services
+(AWS). Acknowledged in Sam Newman's, 'Building Microservices' (2015) and Brian
+Marick's, 'Functional Programming for the Object-Oriented Programmer' (2015).
 
 ## Key Skills
 
