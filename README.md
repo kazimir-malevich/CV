@@ -9,16 +9,16 @@
 ## Summary
 
 Polyglot programmer with an in-depth experience of load, acceptance and
-vulnerability testing with a variety of FOSS tools. Experienced Agilist with a
+vulnerability testing with a variety of FOSS tools. Well versed Agilist with a
 core understanding of Amazon Web Services (AWS). Acknowledged in Sam Newman's,
 'Building Microservices' (2015) and Brian Marick's, 'Functional Programming for
 the Object-Oriented Programmer' (2015).
 
 ## Key Skills
 
-|          Languages          |     Load Tools      |   Browser drivers    | Version Control | Cloud |  CI/CD  |
-| :-------------------------: | :-----------------: | :------------------: | :-------------: | :---: | :-----: |
-| Scala 2, JavaScript, Python | Gatling, k6, JMeter | Puppeteer, WebDriver |   Git/GitHub    |  AWS  | Jenkins |
+|          Languages          |     Load Tools      |   Browser drivers    | Version Control | Cloud |     CI/CD      |
+| :-------------------------: | :-----------------: | :------------------: | :-------------: | :---: | :------------: |
+| Scala 2, JavaScript, Python | Gatling, k6, JMeter | Puppeteer, WebDriver |   Git/GitHub    |  AWS  | GitHub Actions |
 
 ## Experience
 
