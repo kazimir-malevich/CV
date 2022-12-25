@@ -51,7 +51,8 @@ is no longer an issue and I am looking to re-enter the workforce.
   free)
 - Used other load tools including: **locust**(Python),
   **k6**(JavaScript), **wrk**(Lua)
-- Wrote and ran load tests for heavy Puppeteer(TypeScript) and BlazeMeter.
+- Wrote and ran load tests for heavy JavaScript front-end applications with
+  Puppeteer(TypeScript) and BlazeMeter.
 - Gave talks on Gatling, embedded myself in teams to guide developers and
   testers on load testing and gave courses on the fundamentals of Scala
 - Offered a vulnerability testing service to replace a consultancy,
