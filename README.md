@@ -1,4 +1,4 @@
-# Adrian Lewis, Software Developer in Test
+Adrian Lewis, Software Developer in Test
 
 **email:** adrian_lewis@hushmail.com  
 **mobile:** 07551377577  
@@ -58,8 +58,8 @@ is no longer an issue and I am looking to re-enter the workforce.
 
 - Automated acceptance tester using **Ruby**, **Selenium-Webriver** and the
   **Behaviour Driven Development**(BDD) framework, **Cucumber**
-- Tests run in a continuous integration pipeline post unit test execution
 - Created a test harness in **Clojure** that validated service HTTP responses from HTTP requests à la contract testing
+- Agile development with user stories, iteration planning, continuous integration, restropectives, pair-progromming etc
 - Put forward the role and wrote the competencies for the
   Developer-in-Test role which was rubber stamped by HR
 - Worked with the **BBC Academy** to devise courses around **BDD** and
