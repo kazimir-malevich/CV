@@ -64,7 +64,7 @@ is no longer an issue and I am looking to re-enter the workforce.
   **Behaviour Driven Development**(BDD) framework, **Cucumber**
 - Created a test harness in **Clojure** that validated service HTTP responses
   from HTTP requests à la contract testing
-- Engaged in **Agile** development with user stories,
+- Engaged in **Agile** development with **user stories**,
   **iteration planning**, **continuous integration**, **restropectives**, 
   **pair-progromming** etc
 - Put forward the role and wrote the competencies for the
