@@ -40,7 +40,7 @@ is no longer an issue and I am looking to re-enter the workforce.
   the trafffic profiles (CloudWatch Metrics, AWS X-Ray) of an
   application-under-test (AUT)
 - Analysed performance test reports and engaged with domain experts to
-- determine the success or failure of an AUT
+  determine the success or failure of an AUT
   (response time graph distribution, response time percentiles, statistical
   correlation)
 - Created tooling for non-HTTP(S) testing which Gatling does not readily
@@ -48,10 +48,10 @@ is no longer an issue and I am looking to re-enter the workforce.
 - Automated Gatling deployment through AWS CloudFormation and a "thin" BBC
   AWS wrapper
 - Helped to debug Linux bottlenecks through GNU tools (e.g. ps, top, vmstat,
-- free) Used other load tools including: **locust**(Python),
-- **k6**(JavaScript), **wrk**(Lua) Wrote and ran load tests for heavy
-- JavaScript front-end applications using
-  Puppeteer(TypeScript) and BlazeMeter.
+  free)
+- Used other load tools including: **locust**(Python),
+  **k6**(JavaScript), **wrk**(Lua)
+- Wrote and ran load tests for heavy Puppeteer(TypeScript) and BlazeMeter.
 - Gave talks on Gatling, embedded myself in teams to guide developers and
   testers on load testing and gave courses on the fundamentals of Scala
 - Offered a vulnerability testing service to replace a consultancy,
@@ -62,9 +62,10 @@ is no longer an issue and I am looking to re-enter the workforce.
 - Automated acceptance tester using **Ruby**, **Selenium-Webriver** and the
   **Behaviour Driven Development**(BDD) framework, **Cucumber**
 - Created a test harness in **Clojure** that validated service HTTP responses
-- from HTTP requests à la contract testing Agile development with user stories,
-- iteration planning, continuous integration, restropectives, pair-progromming
-- etc Put forward the role and wrote the competencies for the
+  from HTTP requests à la contract testing
+- Engaged in Agile development with user stories,
+  iteration planning, continuous integration, restropectives, pair-progromming etc
+- Put forward the role and wrote the competencies for the
   Developer-in-Test role which was rubber stamped by HR
 - Worked with the **BBC Academy** to devise courses around **BDD** and
   invited a number of open-source and **Agile** speakers including "Uncle" Bob
