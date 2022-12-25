@@ -33,21 +33,24 @@ is no longer an issue and I am looking to re-enter the workforce.
 **2013-2020, Load Test Engineer** (Operations)
 
 - Introduced the open-source **Gatling** load test tool that replaced a GUI
-  based proprietary load test tool and focuses on tests as code in a Scala
-  DSL
+  based proprietary load test tool and focuses on tests as code in a Scala DSL
 - Created a Gatling orchestration and metric visualisation tool using
   **Docker**, **Kubernetes**, **InfluxDB** and **Grafana**
 - Undertook **load**, **stress**, **spike** and **soak** testing according to
-  the trafffic profiles (CloudWatch Metrics, AWS X-Ray) of an application-under-test (AUT)
-- Analysed performance test reports and engaged with domain experts to determine the success or failure of an AUT
-  (response time graph distribution, response time percentiles, statistical correlation)
+  the trafffic profiles (CloudWatch Metrics, AWS X-Ray) of an
+  application-under-test (AUT)
+- Analysed performance test reports and engaged with domain experts to
+- determine the success or failure of an AUT
+  (response time graph distribution, response time percentiles, statistical
+  correlation)
 - Created tooling for non-HTTP(S) testing which Gatling does not readily
   support (e.g. SQS, DNS, datastore load testing)
 - Automated Gatling deployment through AWS CloudFormation and a "thin" BBC
   AWS wrapper
-- Helped to debug Linux bottlenecks through GNU tools (e.g. ps, top, vmstat, free)
-- Used other load tools including: **locust**(Python), **k6**(JavaScript), **wrk**(Lua)
-- Wrote and ran load tests for heavy JavaScript front-end applications using
+- Helped to debug Linux bottlenecks through GNU tools (e.g. ps, top, vmstat,
+- free) Used other load tools including: **locust**(Python),
+- **k6**(JavaScript), **wrk**(Lua) Wrote and ran load tests for heavy
+- JavaScript front-end applications using
   Puppeteer(TypeScript) and BlazeMeter.
 - Gave talks on Gatling, embedded myself in teams to guide developers and
   testers on load testing and gave courses on the fundamentals of Scala
@@ -58,13 +61,14 @@ is no longer an issue and I am looking to re-enter the workforce.
 
 - Automated acceptance tester using **Ruby**, **Selenium-Webriver** and the
   **Behaviour Driven Development**(BDD) framework, **Cucumber**
-- Created a test harness in **Clojure** that validated service HTTP responses from HTTP requests à la contract testing
-- Agile development with user stories, iteration planning, continuous integration, restropectives, pair-progromming etc
-- Put forward the role and wrote the competencies for the
+- Created a test harness in **Clojure** that validated service HTTP responses
+- from HTTP requests à la contract testing Agile development with user stories,
+- iteration planning, continuous integration, restropectives, pair-progromming
+- etc Put forward the role and wrote the competencies for the
   Developer-in-Test role which was rubber stamped by HR
 - Worked with the **BBC Academy** to devise courses around **BDD** and
-  invited a number of open-source and **Agile** speakers including "Uncle"
-  Bob Martin and the Selenium and Webdriver creators, Jason Huggins and Simon
+  invited a number of open-source and **Agile** speakers including "Uncle" Bob
+  Martin and the Selenium and Webdriver creators, Jason Huggins and Simon
   Stewart, respectively
 
 **2008-2010, BBC Worldwide** (West London), **Automated Tester**
@@ -80,7 +84,8 @@ is no longer an issue and I am looking to re-enter the workforce.
 - Using IBM/Rational products to automate the testing of a number of parcel
   delivery applications
 - Wrote a keyword-driven framework in a "dumb" terminal to automate the testing
-  of a new major release, saving tens of thousands in manual test overtime costs
+  of a new major release, saving tens of thousands in manual test overtime
+  costs
 
 **2003-2004, Philips Medical Systems**, (Hamburg, Germany), **Integration Tester**  
  Testing new controller software on an RTOS, interfacing to an x-ray machine
