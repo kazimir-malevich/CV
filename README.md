@@ -9,10 +9,11 @@
 ## Summary
 
 Polyglot programmer with an in-depth experience of performance, acceptance and
-vulnerability testing with a variety of FOSS tools. Well versed Agilist,
-long-term GNU/Linux user with a core understanding of Amazon Web Services
-(AWS). Acknowledged in Sam Newman's, 'Building Microservices' (2015) and Brian
-Marick's, 'Functional Programming for the Object-Oriented Programmer' (2015).
+vulnerability testing with a variety of FOSS tools. Well versed Agilist (xP,
+Scrum, Kanban), with a good understanding of cloud concepts and core Amazon Web
+Services (AWS). Acknowledged in Sam Newman's, 'Building Microservices' (2015)
+and Brian Marick's, 'Functional Programming for the Object-Oriented Programmer'
+(2015).
 
 ## Key Skills
 
@@ -65,7 +66,7 @@ is no longer an issue and I am looking to re-enter the workforce.
 - Created a test harness in **Clojure** that validated service HTTP responses
   from HTTP requests à la contract testing
 - Engaged in **Agile** development with **user stories**,
-  **iteration planning**, **continuous integration**, **restropectives**, 
+  **iteration planning**, **continuous integration**, **restropectives**,
   **pair-progromming** etc
 - Put forward the role and wrote the competencies for the
   Developer-in-Test role which was rubber stamped by HR
