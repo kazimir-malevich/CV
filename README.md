@@ -17,9 +17,9 @@ and Brian Marick's, 'Functional Programming for the Object-Oriented Programmer'
 
 ## Key Skills
 
-|          Languages          |     Load Tools      |   Browser drivers    | Version Control | Cloud |     CI/CD      |
-| :-------------------------: | :-----------------: | :------------------: | :-------------: | :---: | :------------: |
-| Scala 2, JavaScript, Python | Gatling, k6, JMeter | Puppeteer, WebDriver |   Git/GitHub    |  AWS  | GitHub Actions |
+|          Languages          |     Load Tools      |    Browser drivers    | Cloud |     CI/CD      |
+| :-------------------------: | :-----------------: | :-------------------: | :---: | :------------: |
+| Scala 2, JavaScript, Python | Gatling, k6, JMeter | Playwright, Puppeteer |  AWS  | GitHub Actions |
 
 ## Experience
 
